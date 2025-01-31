@@ -91,23 +91,6 @@ The frontend will be running on http://localhost:3001
 
 Once the backend is running, visit http://localhost:3000/api for Swagger documentation.
 
-## Testing
-
-### Backend Tests
-
-```bash
-cd backend
-npm run test        # Unit tests
-npm run test:e2e    # E2E tests
-```
-
-### Frontend Tests
-
-```bash
-cd frontend
-npm test
-```
-
 ## Technologies Used
 
 ### Frontend
@@ -138,14 +121,6 @@ movie-search-app/
     ├── prisma/
     └── package.json
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
